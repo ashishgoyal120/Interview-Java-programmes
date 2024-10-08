@@ -1,7 +1,7 @@
 
 package generalProgrammes;
 
-public class P06_PrimeNumber {
+public class P07_PrimeNumber {
 	public static void main(String[] args) {
 		getPrimeNumbers(20);
 	}
