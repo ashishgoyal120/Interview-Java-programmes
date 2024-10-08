@@ -2,12 +2,12 @@ package generalProgrammes;
 
 public class P13_FindFactorialOfNum {
 
-	// 1. Without Recursive -- Use for Loop
 	public static void main(String[] args) {
 		System.out.println(getFactorial(4));
 		System.out.println(getFactorialrecursive(4));
 	}
 
+	// 1. Without Recursive -- Use for Loop
 	public static int getFactorial(int num) {
 		int fact = 1; // Dont Use 0 otherwise output will be always 0
 		if (num == 0) {
