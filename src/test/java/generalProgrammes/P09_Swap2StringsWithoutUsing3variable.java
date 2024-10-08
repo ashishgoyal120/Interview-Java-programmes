@@ -1,7 +1,7 @@
-package InterviewProgrammes;
+package generalProgrammes;
 
 
-public class Prog08_Swap_2_Strings_Without_Using3rdvariable {
+public class P09_Swap2StringsWithoutUsing3variable {
 
     public static void main(String[] args) {
             String a = "Hello";
